@@ -33,4 +33,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ste.bp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ste.bp" /></a></p><br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6666&height=120&section=footer"/>
-![snake gif](https://github.com/Formandodev/stephaniebrasil/blob/output/github-contribution-grid-snake.svg)
